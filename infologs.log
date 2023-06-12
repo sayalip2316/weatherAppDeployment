@@ -1,0 +1,334 @@
+{
+  meta: {
+    req: {
+      url: '/weather/Mumbai',
+      headers: {
+        token: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDg2ZGU3YTJhN2JmZWNkNjExNmU3ZjQiLCJpYXQiOjE2ODY1NjIxNTd9.iH-mr_5fMr8r7tlLCTx6F0fSnOvscCdK9hWFwtvGENc',
+        'content-length': '62',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/weather/Mumbai',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3231
+  },
+  service: 'sayali-service',
+  level: 'info',
+  message: 'HTTP GET /weather/Mumbai'
+}
+{
+  meta: {
+    req: {
+      url: '/weather/Mumbai',
+      headers: {
+        token: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDg2ZGU3YTJhN2JmZWNkNjExNmU3ZjQiLCJpYXQiOjE2ODY1NjIxNTd9.iH-mr_5fMr8r7tlLCTx6F0fSnOvscCdK9hWFwtvGENc',
+        'content-length': '62',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/weather/Mumbai',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 3
+  },
+  service: 'sayali-service',
+  level: 'error',
+  message: 'HTTP GET /weather/Mumbai'
+}
+{
+  meta: {
+    req: {
+      url: '/user/login',
+      headers: {
+        'content-length': '62',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/user/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 650
+  },
+  service: 'sayali-service',
+  level: 'info',
+  message: 'HTTP POST /user/login'
+}
+{
+  meta: {
+    req: {
+      url: '/weather/Mumbai',
+      headers: {
+        token: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDg2ZGU3YTJhN2JmZWNkNjExNmU3ZjQiLCJpYXQiOjE2ODY1Njc2OTN9.mUssXCY9bPGkjotbkNnvP9kN20W8Mjum0MkIAxoBMW4',
+        'content-length': '62',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/weather/Mumbai',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 1
+  },
+  service: 'sayali-service',
+  level: 'error',
+  message: 'HTTP GET /weather/Mumbai'
+}
+{
+  meta: {
+    req: {
+      url: '/weather/Mumbai',
+      headers: {
+        token: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDg2ZGU3YTJhN2JmZWNkNjExNmU3ZjQiLCJpYXQiOjE2ODY1Njc2OTN9.mUssXCY9bPGkjotbkNnvP9kN20W8Mjum0MkIAxoBMW4',
+        'content-length': '62',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/weather/Mumbai',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 17
+  },
+  service: 'sayali-service',
+  level: 'error',
+  message: 'HTTP GET /weather/Mumbai'
+}
+{
+  meta: {
+    req: {
+      url: '/weather/Mumbai',
+      headers: {
+        'content-length': '62',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDg2ZGU3YTJhN2JmZWNkNjExNmU3ZjQiLCJpYXQiOjE2ODY1Njc2OTN9.mUssXCY9bPGkjotbkNnvP9kN20W8Mjum0MkIAxoBMW4',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/weather/Mumbai',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1556
+  },
+  service: 'sayali-service',
+  level: 'info',
+  message: 'HTTP GET /weather/Mumbai'
+}
+{
+  meta: {
+    req: {
+      url: '/weather/Mumbai@',
+      headers: {
+        'content-length': '62',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDg2ZGU3YTJhN2JmZWNkNjExNmU3ZjQiLCJpYXQiOjE2ODY1Njc2OTN9.mUssXCY9bPGkjotbkNnvP9kN20W8Mjum0MkIAxoBMW4',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/weather/Mumbai@',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 1
+  },
+  service: 'sayali-service',
+  level: 'warn',
+  message: 'HTTP GET /weather/Mumbai@'
+}
+{
+  meta: {
+    req: {
+      url: '/user/register',
+      headers: {
+        'content-length': '109',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/user/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 5874
+  },
+  service: 'sayali-service',
+  level: 'info',
+  message: 'HTTP POST /user/register'
+}
+{
+  meta: {
+    req: {
+      url: '/user/login',
+      headers: {
+        'content-length': '61',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/user/login',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 367
+  },
+  service: 'sayali-service',
+  level: 'warn',
+  message: 'HTTP POST /user/login'
+}
+{
+  meta: {
+    req: {
+      url: '/user/login',
+      headers: {
+        'content-length': '60',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/user/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 553
+  },
+  service: 'sayali-service',
+  level: 'info',
+  message: 'HTTP POST /user/login'
+}
+{
+  meta: {
+    req: {
+      url: '/weather/Mumbai',
+      headers: {
+        'content-length': '62',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDg2ZmJlODc2ODNhY2Q4YmU3OWRkNDEiLCJpYXQiOjE2ODY1Njc5Mzd9.pL0z0x7tNjoWgqfr1eVLyj2i3hELPdhgCzCfN-WjAxY',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/weather/Mumbai',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2667
+  },
+  service: 'sayali-service',
+  level: 'info',
+  message: 'HTTP GET /weather/Mumbai'
+}
+{
+  meta: {
+    req: {
+      url: '/weather/Mumbai',
+      headers: {
+        'content-length': '62',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDg2ZmJlODc2ODNhY2Q4YmU3OWRkNDEiLCJpYXQiOjE2ODY1Njc5Mzd9.pL0z0x7tNjoWgqfr1eVLyj2i3hELPdhgCzCfN-WjAxY',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/weather/Mumbai',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2273
+  },
+  service: 'sayali-service',
+  level: 'info',
+  message: 'HTTP GET /weather/Mumbai'
+}
+{
+  meta: {
+    req: {
+      url: '/weather/Mumbai',
+      headers: {
+        'content-length': '62',
+        'accept-encoding': 'gzip, deflate, br',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDg2ZmJlODc2ODNhY2Q4YmU3OWRkNDEiLCJpYXQiOjE2ODY1Njc5Mzd9.pL0z0x7tNjoWgqfr1eVLyj2i3hELPdhgCzCfN-WjAxY',
+        'content-type': 'application/json',
+        host: 'localhost:4500',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/weather/Mumbai',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3110
+  },
+  service: 'sayali-service',
+  level: 'info',
+  message: 'HTTP GET /weather/Mumbai'
+}
